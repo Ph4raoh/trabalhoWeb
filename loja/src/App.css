@@ -1,0 +1,40 @@
+#tabela {
+  margin: 90px auto;
+  max-width: 900px;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+#butEditar {
+  border: 0;
+  color: white;
+  background-color: #337ab7;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#butRemover {
+  border: 0;
+  color: white;
+  background-color: #d9534f;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#butnovo {
+  border: 0;
+  color: white;
+  background-color: #49c730;
+  padding: 5px;
+  padding-left: 40px;
+  padding-right: 40px;
+  float: right;
+}
+
+#entradaDeDados {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
